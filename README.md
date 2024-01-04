@@ -1,0 +1,1 @@
+# Sentiment_Analysis_of_Hotels_for_Tourist_accomodation
